@@ -1,0 +1,13 @@
+month,emp_count,production_unit,expense
+Jan,340,2000,30
+Feb,312,2500,32
+Mar,311,1500,28
+Apr,345,2800,34
+May,321,1700,50,test_msg
+Jun,326,2400,45
+Jul,379,1800,34
+Aug,299,2000,32
+Sep,349,thousand,35
+Oct,379,2500,40
+Nov,300,2000,45
+Dec,321,1900,50
